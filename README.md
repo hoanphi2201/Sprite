@@ -1,2 +1,2 @@
 # Sprite
-animate fb
+animate local edit
